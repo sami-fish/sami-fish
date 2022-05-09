@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sami-fish
-- 👀 I’m interested in my girl
+- 👀 I’m interested by an adventure
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on simple but effective projects
 - 📫 How to reach me ...
